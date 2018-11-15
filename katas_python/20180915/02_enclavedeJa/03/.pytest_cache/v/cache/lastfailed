@@ -1,0 +1,6 @@
+{
+  "test_enclavedeja.py::test_multiple_discount[seasons2-27.5]": true,
+  "test_enclavedeja.py::test_multiple_discount[seasons2-28.55]": true,
+  "test_enclavedeja.py::test_multiple_discount[seasons2-28.8]": true,
+  "test_enclavedeja.py::test_multiple_discount[seasons3-23.55]": true
+}

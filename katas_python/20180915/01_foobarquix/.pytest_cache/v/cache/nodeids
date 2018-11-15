@@ -1,0 +1,20 @@
+[
+  "test_foobarquix.py::test_no_match[1-1]",
+  "test_foobarquix.py::test_no_match[2-2]",
+  "test_foobarquix.py::test_no_match[4-4]",
+  "test_foobarquix.py::test_no_match[8-8]",
+  "test_foobarquix.py::test_no_match[11-11]",
+  "test_foobarquix.py::test_is_divisible_only_by_three_or_five_or_seven[6-Foo]",
+  "test_foobarquix.py::test_is_divisible_only_by_three_or_five_or_seven[10-Bar]",
+  "test_foobarquix.py::test_is_divisible_only_by_three_or_five_or_seven[14-Quix]",
+  "test_foobarquix.py::test_only_contains_once_three_or_five_or_seven[13-Foo]",
+  "test_foobarquix.py::test_only_contains_once_three_or_five_or_seven[52-Bar]",
+  "test_foobarquix.py::test_only_contains_once_three_or_five_or_seven[17-Quix]",
+  "test_foobarquix.py::test_only_divisible_once_by_a_number_and_contain_it[3-FooFoo]",
+  "test_foobarquix.py::test_only_divisible_once_by_a_number_and_contain_it[5-BarBar]",
+  "test_foobarquix.py::test_only_divisible_once_by_a_number_and_contain_it[7-QuixQuix]",
+  "test_foobarquix.py::test_multiples_matches[33-FooFooFoo]",
+  "test_foobarquix.py::test_multiples_matches[15-FooBarBar]",
+  "test_foobarquix.py::test_multiples_matches[35-BarQuixFooBar]",
+  "test_foobarquix.py::test_multiples_matches[63-FooQuixFoo]"
+]

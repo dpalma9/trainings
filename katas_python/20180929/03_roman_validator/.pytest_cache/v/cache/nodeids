@@ -1,0 +1,20 @@
+[
+  "test_roman_validator.py::test_valid_roman_numbers[XLV]",
+  "test_roman_validator.py::test_valid_roman_numbers[CDXCV]",
+  "test_roman_validator.py::test_valid_roman_numbers[CDL]",
+  "test_roman_validator.py::test_valid_roman_numbers[IV]",
+  "test_roman_validator.py::test_valid_roman_numbers[IX]",
+  "test_roman_validator.py::test_valid_roman_numbers[XL]",
+  "test_roman_validator.py::test_valid_roman_numbers[XC]",
+  "test_roman_validator.py::test_valid_roman_numbers[CD]",
+  "test_roman_validator.py::test_valid_roman_numbers[CM]",
+  "test_roman_validator.py::test_invalid_roman_numbers[VL]",
+  "test_roman_validator.py::test_invalid_roman_numbers[VD]",
+  "test_roman_validator.py::test_invalid_roman_numbers[LD]",
+  "test_roman_validator.py::test_invalid_roman_numbers[IIII]",
+  "test_roman_validator.py::test_invalid_roman_numbers[VIV]",
+  "test_roman_validator.py::test_invalid_roman_numbers[XXXX]",
+  "test_roman_validator.py::test_invalid_roman_numbers[LXL]",
+  "test_roman_validator.py::test_invalid_roman_numbers[CCCC]",
+  "test_roman_validator.py::test_invalid_roman_numbers[DCD]"
+]

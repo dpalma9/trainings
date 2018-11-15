@@ -1,0 +1,7 @@
+{
+  "test_foobarquix.py::test_no_match[1-1]": true,
+  "test_foobarquix.py::test_no_match[11-11]": true,
+  "test_foobarquix.py::test_no_match[2-2]": true,
+  "test_foobarquix.py::test_no_match[4-4]": true,
+  "test_foobarquix.py::test_no_match[8-8]": true
+}

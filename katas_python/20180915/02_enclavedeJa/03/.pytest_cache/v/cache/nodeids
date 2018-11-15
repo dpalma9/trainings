@@ -1,0 +1,13 @@
+[
+  "test_enclavedeja.py::test_no_discount[seasons0-5.5]",
+  "test_enclavedeja.py::test_no_discount[seasons1-7.5]",
+  "test_enclavedeja.py::test_no_discount[seasons2-10.0]",
+  "test_enclavedeja.py::test_simple_discount[seasons0-8.1]",
+  "test_enclavedeja.py::test_simple_discount[seasons1-10.4]",
+  "test_enclavedeja.py::test_simple_discount[seasons2-12.25]",
+  "test_enclavedeja.py::test_simple_discount[seasons3-17.25]",
+  "test_enclavedeja.py::test_multiple_discount[seasons0-14.4]",
+  "test_enclavedeja.py::test_multiple_discount[seasons1-19.85]",
+  "test_enclavedeja.py::test_multiple_discount[seasons2-29.85]",
+  "test_enclavedeja.py::test_multiple_discount[seasons3-24.85]"
+]

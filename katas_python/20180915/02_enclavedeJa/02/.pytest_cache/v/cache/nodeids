@@ -1,0 +1,10 @@
+[
+  "test_enclavedeja.py::test_no_discount[seasons0-6.5]",
+  "test_enclavedeja.py::test_no_discount[seasons1-8.5]",
+  "test_enclavedeja.py::test_no_discount[seasons2-12]",
+  "test_enclavedeja.py::test_simple_discount[seasons0-9.45]",
+  "test_enclavedeja.py::test_simple_discount[seasons1-12.0]",
+  "test_enclavedeja.py::test_simple_discount[seasons2-14.0]",
+  "test_enclavedeja.py::test_20_percent_discount[seasons0-16.5]",
+  "test_enclavedeja.py::test_20_percent_discount[seasons1-22.8]"
+]
